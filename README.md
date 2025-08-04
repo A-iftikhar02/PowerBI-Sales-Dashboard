@@ -4,9 +4,8 @@ This Power BI dashboard provides a comprehensive analysis of customer purchases 
 
 ---
 
-## 📸 Dashboard Preview
+<img width="1416" height="743" alt="image" src="https://github.com/user-attachments/assets/d01278f1-7a5d-4f83-8a80-0e78b9b327b1" />
 
-![Summary](Summary_Report_Page.png)
 
 ---
 
