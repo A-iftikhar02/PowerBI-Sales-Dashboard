@@ -3,7 +3,7 @@
 This Power BI dashboard provides a comprehensive analysis of customer purchases from 2014 to 2017. It highlights key performance indicators (KPIs), sales trends, category performance, and regional distribution.
 
 ---
-
+## 🖼️ Dashboard Preview
 <img width="1373" height="741" alt="image" src="https://github.com/user-attachments/assets/f82cfc39-68ad-44dd-a903-8389a224720c" />
 
 
